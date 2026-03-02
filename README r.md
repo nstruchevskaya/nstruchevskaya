@@ -1,29 +1,29 @@
-# ### Hi there ! I'm Natalia. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# Привет, меня зовут Артем!
 
 ---
 
-### 👨‍💻 About me:
+### 👨‍💻 Обо мне:
 
-Осознанно перехожу в IT, выбрав направление тестирования как сферу, максимально соответствующую моим сильным сторонам: внимательности, структурности и умению находить ошибки. Более 5 лет профессионально работала с проверкой и анализом результатов, что напрямую перекликается с задачами QA. Готова быстро влиться в процессы, брать ответственность за качество и постоянно повышать уровень экспертизы.
+Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал на YouTube с аудиторией более 158.000 человек. Зв время преподавтаельсккой деятельности обучил более 10.000 студентов на разных платформах.
 
-📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/-----/) [![Yandex Badge][<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='40'>](<a href="mailto:nstruchevskaya@yandex.ru">Написать письмо</a>.)  
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
 
 ---
 
-### 🤝 Social net:
+### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/----/" target="_blank">
+    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/nstruchevskaya" target="_blank">
+    <a href="https://t.me/artsiom_qa" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
 
-  ---
+---
 
-### 📁 Test documentation:
+### 📁 Тестовая документация:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠 Web testing:
+### 🛠 Тестирование веб-приложений:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -46,7 +46,7 @@
 
 ---
 
-### 📱 Mobile app testing:
+### 📱 Тестирование мобильных приложений:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -59,7 +59,7 @@
 
 ---
 
-### 💾 Data management:
+### 💾 Работа с данными:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -68,7 +68,7 @@
 
 ---
 
-### ✏️ Working with code:
+### ✏️ Работа с кодом:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -79,39 +79,12 @@
 
 ---
 
-<!-- ### 💻 Courses:
+<!-- ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| stepik.org                                                      | 11/2025 - 03/2026 |
-Тестирование ПО с нуля. Теория + практика. Уровень PRO by Artem
-Rusau
+| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+
 --- -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nstruchevskaya)
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <title>Изображение справа</title>
-    <style>
-        .right-image {
-            width: 4cm;
-            height: 4cm;
-            float: right;
-            margin-left: 10px; /* небольшой отступ слева */
-        }
-    </style>
-</head>
-<body>
-
-    <img src="https://www.flaticon.com/free-icon/avatar_13482097?term=blond+girl&page=1&position=83&origin=search&related_id=13482097" 
-         alt="Изображение" 
-         class="right-image">
-
-    <p>
-    </p>
-
-</body>
-</html>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
