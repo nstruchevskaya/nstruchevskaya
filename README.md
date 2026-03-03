@@ -8,7 +8,7 @@
 Consciously changing my carreer. Have chosen testing as a sphere that matches my individual strength: attentiveness, time-management, fresh eye to catch mistakes. Years of working experience in checking and results analyses, which directly matches QA responsibilities.      
 
 
-📫 My contacts: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/-----/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='20'>](<a href="mailto:nstruchevskaya@yandex.ru">Написать письмо</a>.)  
+📫 My contacts: [![LinkedIn Badge](https://img.shields.io/badge/-@nstruchevskaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/-----/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='20'>](<a href="mailto:nstruchevskaya@yandex.ru">Написать письмо</a>.)  
 
 ---
 
@@ -209,30 +209,3 @@ Rusau
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nstruchevskaya)
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <title>Изображение справа</title>
-    <style>
-        .right-image {
-            width: 4cm;
-            height: 4cm;
-            float: right;
-            margin-left: 10px; /* небольшой отступ слева */
-        }
-    </style>
-</head>
-<body>
-
-    <img src="https://www.flaticon.com/free-icon/avatar_13482097?term=blond+girl&page=1&position=83&origin=search&related_id=13482097" 
-         alt="Изображение" 
-         class="right-image">
-
-    <p>
-    </p>
-
-</body>
-
->>>>>>> d6adcb4558b1cc935e8a645437e06a4099d7a695
-</html>
