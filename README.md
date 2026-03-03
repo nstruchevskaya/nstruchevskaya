@@ -1,15 +1,6 @@
 <<<<<<< HEAD
 # ### Hi there ! I'm Natalia. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<div>
-img.src = 'https://www.flaticon.com/free-icon/avatar_13482097?term=blond+girl&page=1&position=83&origin=search&related_id=13482097'; 
-img.style.width = '5cm';
-img.style.height = '5cm';
-img.style.position = 'fixed';
-img.style.top = '0';
-img.style.right = '0';
-img.style.zIndex = '1000';
-
 ----
 
 ### 👨‍💻 About me:
@@ -242,5 +233,6 @@ Rusau
     </p>
 
 </body>
+
 >>>>>>> d6adcb4558b1cc935e8a645437e06a4099d7a695
 </html>
