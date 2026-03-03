@@ -1,12 +1,22 @@
 # ### Hi there ! I'm Natalia. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
----
+<div>
+img.src = 'https://www.flaticon.com/free-icon/avatar_13482097?term=blond+girl&page=1&position=83&origin=search&related_id=13482097'; 
+img.style.width = '5cm';
+img.style.height = '5cm';
+img.style.position = 'fixed';
+img.style.top = '0';
+img.style.right = '0';
+img.style.zIndex = '1000';
+
+----
 
 ### 👨‍💻 About me:
 
-Осознанно перехожу в IT, выбрав направление тестирования как сферу, максимально соответствующую моим сильным сторонам: внимательности, структурности и умению находить ошибки. Более 5 лет профессионально работала с проверкой и анализом результатов, что напрямую перекликается с задачами QA. Готова быстро влиться в процессы, брать ответственность за качество и постоянно повышать уровень экспертизы.
+Consciously changing my carreer. Have chosen testing as a sphere that matches my individual strength: attentiveness, time-management, fresh eye to catch mistakes. Years of working experience in checking and results analyses, which directly matches QA responsibilities.      
 
-📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/-----/) [![Yandex Badge][<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='40'>](<a href="mailto:nstruchevskaya@yandex.ru">Написать письмо</a>.)  
+
+📫 My contacts: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/-----/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='20'>](<a href="mailto:nstruchevskaya@yandex.ru">Написать письмо</a>.)  
 
 ---
 
@@ -27,9 +37,9 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/YouTrack_Icon.svg" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
+  <img src="https://migsoft.ru/catalog/testit/test-it-test-management-system/" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
@@ -72,7 +82,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <img src="icons8-bash-48.png" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
