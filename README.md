@@ -96,12 +96,12 @@ Rusau
 
 <h2>Test Artifacts</h2>
 <ul>
-  <li><a href="https://github.com/----/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
-  <li><a href="https://github.com/---/api_testing">API Testing</a> – REST and SOAP via Postman</li>
-  <li><a href="https://github.com/---/sql">MySQL</a> – queries and DB validation scripts</li>
-  <li><a href="https://github.com/---/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
-  <li><a href="https://github.com/---/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
-  <li><a href="https://github.com/---/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
-  <li><a href="https://github.com/---/bash">Bash</a> – scripts for QA tasks</li>
-  <li><a href="https://github.com/---/git">Git</a> – basic version control commands</li>
+  <li><a href="https://github.com/nstruchevskaya/Web-Shop-Testing">Webshop Testing</a> – exploratory and functional testing</li>
+  <li><a href="https://github.com/nstruchevskaya/API-Testing">API Testing</a> – REST and SOAP via Postman</li>
+  <li><a href="https://github.com/nstruchevskaya/MySQL">MySQL</a> – queries and DB validation scripts</li>
+  <li><a href="https://github.com/nstruchevskaya/MongoDB">MongoDB</a> – NoSQL queries and exercises</li>
+  <li><a href="https://github.com/nstruchevskaya/Android-App-Testing">Android App Testing</a> – manual test cases and bug reports</li>
+  <li><a href="https://github.com/nstruchevskaya/Charles-Proxy">Charles Proxy</a> – mock responses and network inspection</li>
+  <li><a href="https://github.com/nstruchevskaya/BASH">Bash</a> – scripts for QA tasks</li>
+  <li><a href="https://github.com/nstruchevskaya/Git">Git</a> – basic version control commands</li>
 </ul>
