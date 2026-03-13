@@ -15,7 +15,7 @@ Consciously changing my carreer. Have chosen testing as a sphere that matches my
 ### 🤝 Social net:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/----/" target="_blank">
+    <a href="https://www.linkedin.com/in/nstruchevskaya1/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/nstruchevskaya" target="_blank">
