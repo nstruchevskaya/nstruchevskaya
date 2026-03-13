@@ -8,7 +8,7 @@
 Consciously changing my carreer. Have chosen testing as a sphere that matches my individual strength: attentiveness, time-management, fresh eye to catch mistakes. Years of working experience in checking and results analyses, which directly matches QA responsibilities.      
 
 
-📫 My contacts: [![LinkedIn Badge](https://img.shields.io/badge/-@nstruchevskaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nstruchevskaya1/) <a href="mailto:nstruchevskaya@yandex.ru">Contact me</a>  
+📫 My contacts: [![LinkedIn Badge](https://img.shields.io/badge/-@nstruchevskaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/n-struchevskaya/) <a href="mailto:nstruchevskaya@yandex.ru">Contact me</a>  
 
 ---
 
